@@ -1,0 +1,57 @@
+# --- Dependencies ---
+node_modules/
+
+# --- Environment & secrets ---
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# --- Build output (Vite / frontend) ---
+dist/
+build/
+.vite/
+*.tsbuildinfo
+
+# --- Python (KenectMouse & tooling) ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+.Python
+.venv/
+venv/
+.venv*/
+ENV/
+env/
+*.egg-info/
+.eggs/
+*.egg
+
+# --- Test / type / lint caches ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+coverage/
+.nyc_output/
+*.cover
+htmlcov/
+
+# --- Logs ---
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Editors / IDEs ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~

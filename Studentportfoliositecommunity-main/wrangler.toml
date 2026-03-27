@@ -1,0 +1,5 @@
+# Cloudflare Pages / Wrangler — build output from Vite (`npm run build`)
+# Docs: https://developers.cloudflare.com/pages/functions/wrangler-configuration/
+name = "kinectproject"
+compatibility_date = "2025-03-26"
+pages_build_output_dir = "./dist"

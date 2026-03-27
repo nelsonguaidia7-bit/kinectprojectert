@@ -1,0 +1,302 @@
+{
+  "rootsScanned": [
+    "C:/Users/IT Lab VR/Desktop",
+    "C:/Users/IT Lab VR/Documents",
+    "C:/Users/IT Lab VR/Downloads"
+  ],
+  "generatedAt": "2026-03-27T03:07:35.537Z",
+  "realProjects": [
+    {
+      "id": "real-11",
+      "title": "Studentportfoliositecommunity Main",
+      "category": "Discovered Student Project",
+      "description": "# Student Portfolio Site (Community) This is a code bundle for Student Portfolio Site (Community). The original project is available at https://www.figma.com/design/TsXmgjhbDVHzOfM",
+      "coverImage": "",
+      "images": [],
+      "author": {
+        "name": "Local Student Work",
+        "bio": "Automatically discovered from local project folders.",
+        "avatar": ""
+      },
+      "details": {
+        "year": "2026",
+        "role": "Designer & Developer",
+        "tools": [
+          "Local Filesystem"
+        ]
+      },
+      "source": "real",
+      "sourcePath": "C:/Users/IT Lab VR/Downloads/Studentportfoliositecommunity-main/Studentportfoliositecommunity-main",
+      "confidence": 0.8
+    },
+    {
+      "id": "real-1",
+      "title": "PetProjectBackend",
+      "category": "Discovered Student Project",
+      "description": "Discovered project folder at C:/Users/IT Lab VR/Desktop/PetProjectBackend.",
+      "coverImage": "",
+      "images": [],
+      "author": {
+        "name": "Local Student Work",
+        "bio": "Automatically discovered from local project folders.",
+        "avatar": ""
+      },
+      "details": {
+        "year": "2026",
+        "role": "Contributor",
+        "tools": [
+          "Local Filesystem"
+        ]
+      },
+      "source": "real",
+      "sourcePath": "C:/Users/IT Lab VR/Desktop/PetProjectBackend",
+      "confidence": 0.55
+    },
+    {
+      "id": "real-2",
+      "title": "Prototypes",
+      "category": "Discovered Student Project",
+      "description": "Discovered project folder at C:/Users/IT Lab VR/Desktop/LamoniAI/backend/Prototypes.",
+      "coverImage": "",
+      "images": [],
+      "author": {
+        "name": "Local Student Work",
+        "bio": "Automatically discovered from local project folders.",
+        "avatar": ""
+      },
+      "details": {
+        "year": "2026",
+        "role": "Contributor",
+        "tools": [
+          "Local Filesystem"
+        ]
+      },
+      "source": "real",
+      "sourcePath": "C:/Users/IT Lab VR/Desktop/LamoniAI/backend/Prototypes",
+      "confidence": 0.55
+    },
+    {
+      "id": "real-3",
+      "title": "Prototypes",
+      "category": "Discovered Student Project",
+      "description": "Discovered project folder at C:/Users/IT Lab VR/Desktop/LamoniAI-1/backend/Prototypes.",
+      "coverImage": "",
+      "images": [],
+      "author": {
+        "name": "Local Student Work",
+        "bio": "Automatically discovered from local project folders.",
+        "avatar": ""
+      },
+      "details": {
+        "year": "2026",
+        "role": "Contributor",
+        "tools": [
+          "Local Filesystem"
+        ]
+      },
+      "source": "real",
+      "sourcePath": "C:/Users/IT Lab VR/Desktop/LamoniAI-1/backend/Prototypes",
+      "confidence": 0.55
+    },
+    {
+      "id": "real-4",
+      "title": "PetProjectBackend",
+      "category": "Discovered Student Project",
+      "description": "Discovered project folder at C:/Users/IT Lab VR/Desktop/PetProjectBackend/.vs/PetProjectBackend.",
+      "coverImage": "",
+      "images": [],
+      "author": {
+        "name": "Local Student Work",
+        "bio": "Automatically discovered from local project folders.",
+        "avatar": ""
+      },
+      "details": {
+        "year": "2026",
+        "role": "Contributor",
+        "tools": [
+          "Local Filesystem"
+        ]
+      },
+      "source": "real",
+      "sourcePath": "C:/Users/IT Lab VR/Desktop/PetProjectBackend/.vs/PetProjectBackend",
+      "confidence": 0.55
+    },
+    {
+      "id": "real-5",
+      "title": "ProjectEvaluation",
+      "category": "Discovered Student Project",
+      "description": "Discovered project folder at C:/Users/IT Lab VR/Desktop/PetProjectBackend/.vs/ProjectEvaluation.",
+      "coverImage": "",
+      "images": [],
+      "author": {
+        "name": "Local Student Work",
+        "bio": "Automatically discovered from local project folders.",
+        "avatar": ""
+      },
+      "details": {
+        "year": "2026",
+        "role": "Contributor",
+        "tools": [
+          "Local Filesystem"
+        ]
+      },
+      "source": "real",
+      "sourcePath": "C:/Users/IT Lab VR/Desktop/PetProjectBackend/.vs/ProjectEvaluation",
+      "confidence": 0.55
+    },
+    {
+      "id": "real-6",
+      "title": "Myproject",
+      "category": "Discovered Student Project",
+      "description": "Discovered project folder at C:/Users/IT Lab VR/Desktop/HackathonCCSC/gracelandclubs/Backend/myproject.",
+      "coverImage": "",
+      "images": [],
+      "author": {
+        "name": "Local Student Work",
+        "bio": "Automatically discovered from local project folders.",
+        "avatar": ""
+      },
+      "details": {
+        "year": "2026",
+        "role": "Contributor",
+        "tools": [
+          "Local Filesystem"
+        ]
+      },
+      "source": "real",
+      "sourcePath": "C:/Users/IT Lab VR/Desktop/HackathonCCSC/gracelandclubs/Backend/myproject",
+      "confidence": 0.55
+    },
+    {
+      "id": "real-7",
+      "title": "Unreal Projects",
+      "category": "Discovered Student Project",
+      "description": "Discovered project folder at C:/Users/IT Lab VR/Documents/Unreal Projects.",
+      "coverImage": "",
+      "images": [],
+      "author": {
+        "name": "Local Student Work",
+        "bio": "Automatically discovered from local project folders.",
+        "avatar": ""
+      },
+      "details": {
+        "year": "2026",
+        "role": "Contributor",
+        "tools": [
+          "Local Filesystem"
+        ]
+      },
+      "source": "real",
+      "sourcePath": "C:/Users/IT Lab VR/Documents/Unreal Projects",
+      "confidence": 0.55
+    },
+    {
+      "id": "real-8",
+      "title": "MyProject",
+      "category": "Discovered Student Project",
+      "description": "Discovered project folder at C:/Users/IT Lab VR/Documents/Unreal Projects/MyProject.",
+      "coverImage": "",
+      "images": [],
+      "author": {
+        "name": "Local Student Work",
+        "bio": "Automatically discovered from local project folders.",
+        "avatar": ""
+      },
+      "details": {
+        "year": "2026",
+        "role": "Contributor",
+        "tools": [
+          "Local Filesystem"
+        ]
+      },
+      "source": "real",
+      "sourcePath": "C:/Users/IT Lab VR/Documents/Unreal Projects/MyProject",
+      "confidence": 0.55
+    },
+    {
+      "id": "real-10",
+      "title": "Studentportfoliositecommunity Main",
+      "category": "Discovered Student Project",
+      "description": "Discovered project folder at C:/Users/IT Lab VR/Downloads/Studentportfoliositecommunity-main.",
+      "coverImage": "",
+      "images": [],
+      "author": {
+        "name": "Local Student Work",
+        "bio": "Automatically discovered from local project folders.",
+        "avatar": ""
+      },
+      "details": {
+        "year": "2026",
+        "role": "Designer & Developer",
+        "tools": [
+          "Local Filesystem"
+        ]
+      },
+      "source": "real",
+      "sourcePath": "C:/Users/IT Lab VR/Downloads/Studentportfoliositecommunity-main",
+      "confidence": 0.55
+    },
+    {
+      "id": "real-9",
+      "title": "Downloads",
+      "category": "Discovered Student Project",
+      "description": "Discovered project folder at C:/Users/IT Lab VR/Downloads.",
+      "coverImage": "C:/Users/IT Lab VR/Downloads/confusion_matrix_vit.png",
+      "images": [
+        "C:/Users/IT Lab VR/Downloads/confusion_matrix_vit.png",
+        "C:/Users/IT Lab VR/Downloads/corn.webp",
+        "C:/Users/IT Lab VR/Downloads/download-removebg-preview.png",
+        "C:/Users/IT Lab VR/Downloads/download_camisa.jpg"
+      ],
+      "author": {
+        "name": "Local Student Work",
+        "bio": "Automatically discovered from local project folders.",
+        "avatar": ""
+      },
+      "details": {
+        "year": "2026",
+        "role": "Contributor",
+        "tools": [
+          "Local Filesystem"
+        ]
+      },
+      "source": "real",
+      "sourcePath": "C:/Users/IT Lab VR/Downloads",
+      "confidence": 0.2
+    }
+  ],
+  "ackerlyItems": [
+    {
+      "id": "ackerly-3",
+      "title": "The Lamoni Chronicle Usa Iowa Lamoni 19210331 English 5",
+      "snippet": "> ' . 'Coward' taunted Mary. } . oS, U Wail Insur-: jance Company has reeently been or-!| ° ° : : ;fanized in Tes Moenes with the fol. . . . lowing officers' AL, Ackerly, presi. de",
+      "sourcePath": "C:/Users/IT Lab VR/Desktop/LamoniAI/backend/RegularORC/the_lamoni_chronicle_usa_iowa_lamoni_19210331_english_5.md",
+      "updatedAt": "2025-01-24T05:52:29.878Z",
+      "source": "real"
+    },
+    {
+      "id": "ackerly-2",
+      "title": "The Lamoni Chronicle Usa Iowa Lamoni 19130424 English 7",
+      "snippet": "; } 4 Albert Ackerly of Leon was in town between trains Tuesday. a Mrs. D. H, Blair returned to Kan-! ; sas City Friday after spending ev eral days with Mrs. M, B. Nicholson.| -- G",
+      "sourcePath": "C:/Users/IT Lab VR/Desktop/LamoniAI/backend/RegularORC/the_lamoni_chronicle_usa_iowa_lamoni_19130424_english_7.md",
+      "updatedAt": "2025-01-24T00:56:29.816Z",
+      "source": "real"
+    },
+    {
+      "id": "ackerly-1",
+      "title": "The Lamoni Chronicle Usa Iowa Lamoni 19060913 English 8",
+      "snippet": "\\ Ackerly Mercantile Co merchan- er th, Pome . . aan dise Id& Acton......ccccceeece 12 . . 00 Bashaw, JIR supplies courthouse 00] Biggs, William, office rent coun- ty attormey.....",
+      "sourcePath": "C:/Users/IT Lab VR/Desktop/LamoniAI/backend/RegularORC/the_lamoni_chronicle_usa_iowa_lamoni_19060913_english_8.md",
+      "updatedAt": "2025-01-23T20:59:37.518Z",
+      "source": "real"
+    },
+    {
+      "id": "ackerly-4",
+      "title": "The Lamoni Chronicle Usa Iowa Lamoni 20010125 English 2",
+      "snippet": "<!-- image --> ## MAGISTRATE REPORT Speeding violations: img\\_violations: Shane L Morgan, Kellerton, $41.00; Judith L. Partridge, Lineville, 41.00; Autumn N. Ackerly, Garner, 67.00",
+      "sourcePath": "C:/Users/IT Lab VR/Desktop/LamoniAI/backend/RegularORC/the_lamoni_chronicle_usa_iowa_lamoni_20010125_english_2.md",
+      "updatedAt": "2025-01-23T04:59:26.532Z",
+      "source": "real"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Use this file when the repo root (KinectNext) is the Pages / Wrangler working directory.
+# If Cloudflare "Root directory" is set to Studentportfoliositecommunity-main, that folder's
+# wrangler.toml is used instead (output: ./dist there).
+name = "kinectprojectert"
+compatibility_date = "2025-03-26"
+pages_build_output_dir = "./Studentportfoliositecommunity-main/dist"
